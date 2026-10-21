@@ -2,6 +2,8 @@
 
 An AI skill that searches LinkedIn and Indeed for internship and co-op postings, shows them in a table, and exports them to Excel when you ask.
 
+Version 20261021
+
 **[Overview](#overview)** · **[How it works](docs/how-it-works.md)** · **[Install](#install)** · **[Usage](#usage)** · **[Limits](#limits)** · **[Roadmap](#roadmap)**
 
 ---
