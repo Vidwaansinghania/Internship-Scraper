@@ -1,6 +1,8 @@
 ---
 name: internship-sweep
 description: "Searches LinkedIn and Indeed through a browser the agent controls for internship and co-op postings that match the user's criteria, shows the results as a table in chat, and exports them to Excel on request. Asks for the role, region and other filters before it searches. Use when the user asks for an internship sweep, to sweep internships, or to search internships on LinkedIn and Indeed. Not for applying, messaging recruiters, or updating an application tracker."
+metadata:
+  version: "20261021"
 ---
 
 # Internship sweep
