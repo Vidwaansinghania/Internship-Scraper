@@ -1,0 +1,2 @@
+# Normalise text to LF in the repository; check out with native endings.
+* text=auto
